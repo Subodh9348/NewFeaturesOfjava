@@ -1,0 +1,15 @@
+Java 8v important new Features..
+===============================
+	1.default method in interface
+	2.Static Method in interface
+	3.java 9v private methods in interface
+	4.Functional programing
+	5.Functional interface->(Single Abstract method interface)
+	6.@functionalInterface annotation
+	7.Lambda Expression
+	8.Method reference
+	9.Predefined Functional Interfaces (java.util.function packages)
+	10.Stram API,optional class,Collector Class(java.util.Stream Package)
+	11.new date and time Api(Advance Java)
+	 
+	

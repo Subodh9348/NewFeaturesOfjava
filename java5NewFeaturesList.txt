@@ -1,0 +1,7 @@
+.......java 5v important new Features......
+	1.Auto boxing and auto Unboxing
+	2.Generics
+	3.Enhanced for loop or for-each loop
+	4.var-arg
+	5.enum
+	6.annotation
